@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @luc1hub
 - 👀 I’m interested in share knowledge and make new friends
-- 🌱 I’m currently learning python, sql, R
+- 🌱 I’m currently learning languages: Python, Sql, R, Java, Javascript, Node.js, HTML, CSS.
+- ☁️ I'm loving coding in clouds, like AWS, Mongo DB, Google Cloud
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me @luchub on Discord
 
