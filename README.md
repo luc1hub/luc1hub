@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning languages: Python, Sql, R, Java, Javascript, Node.js, HTML, CSS.
 - ☁️ I'm loving coding in clouds, like AWS, Mongo DB, Google Cloud
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me @luchub on Discord
+- 📫 How to reach me @luc01hub on Instagram
 
 - <div>
 <a href="https://instagram.com/minhaconta" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
